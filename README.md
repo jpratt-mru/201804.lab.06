@@ -4,9 +4,9 @@
 
 Time to give Qualified.io a try.
 
-First, We'll make sure everyone can get onto the platform.
-Next, we'll work through an example drill together.
-Finally, you'll have time to work through the assigned drills.
+- First, We'll make sure everyone can get onto the platform.
+- Next, we'll work through an example drill together.
+- Finally, you'll have time to work through the assigned drills.
 
 ---
 
